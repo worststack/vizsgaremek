@@ -1,0 +1,6 @@
+@VizsgaremekServer_HostAddress = http://localhost:5115
+
+GET {{VizsgaremekServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
